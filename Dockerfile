@@ -23,7 +23,7 @@ RUN pip install flask
 
 # Make port 5000 available to the world outside this container
 EXPOSE 5000
-# select port 5000
+# select the network port 
 
 
 
