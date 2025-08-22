@@ -7,3 +7,7 @@
 - requirements.txt
 - .github/workflows/cicd.yml
 
+- in .yml file we will write github actions workflow (ci/cd pipeline)
+
+
+
