@@ -9,5 +9,7 @@
 
 - in .yml file we will write github actions workflow (ci/cd pipeline)
 
+- in secrets in github, added the docker user name and access token.
+
 
 
