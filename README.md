@@ -8,7 +8,7 @@
 - .github/workflows/cicd.yml
 
 - in .yml file we will write github actions workflow (ci/cd pipeline)
-
+ 
 - in secrets in github, added the docker user name and access token.
 
 - when we push yml file in to the github, action workflow auto start their work. we can check it in github actions.
